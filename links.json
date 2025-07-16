@@ -1,1 +1,9 @@
-{}
+{
+  "Click me": {
+    "title": "Click me",
+    "url": "",
+    "color": "#042ea9",
+    "image": null,
+    "text": "This webpage would update its hyperlinks created by me on random time, the hyperlinks will contain texts and images that i share."
+  }
+}
